@@ -1,10 +1,10 @@
 import './App.css';
-import Home from './Pages/Pages';
-import MyAccount from './Pages/Pages/MyAccount';
-import MyOrder from './Pages/Pages/MyOrder';
-import MyOrders from './Pages/Pages/MyOrders';
-import NotFound from './Pages/Pages/NotFound';
-import SignIn from './Pages/Pages/SignIn';
+import Home from './Pages/Home';
+import MyAccount from './Pages/MyAccount';
+import MyOrder from './Pages/MyOrder';
+import MyOrders from './Pages/MyOrders';
+import NotFound from './Pages/NotFound';
+import SignIn from './Pages/SignIn';
 
 function App() {
   return(
