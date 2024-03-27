@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMBER.ELK.Api", "AMBER.ELK.Api\AMBER.ELK.Api.csproj", "{2EE32D36-D53A-46F6-85B2-91C0EDA186DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMBER.ELK.Domain", "AMBER.ELK.Domain\AMBER.ELK.Domain.csproj", "{AB8773A1-BE91-43A0-BB86-06F8AE1628FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE32D36-D53A-46F6-85B2-91C0EDA186DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE32D36-D53A-46F6-85B2-91C0EDA186DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE32D36-D53A-46F6-85B2-91C0EDA186DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE32D36-D53A-46F6-85B2-91C0EDA186DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8773A1-BE91-43A0-BB86-06F8AE1628FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8773A1-BE91-43A0-BB86-06F8AE1628FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8773A1-BE91-43A0-BB86-06F8AE1628FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8773A1-BE91-43A0-BB86-06F8AE1628FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
